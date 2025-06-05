@@ -1,4 +1,4 @@
-## Kottster
+# Kottster
 
 A simple Node.js admin panel for your app. Create pages to view and manage data in your database, or build fully custom pages from scratch.
 
